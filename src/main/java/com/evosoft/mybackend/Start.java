@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import com.evosoft.mybackend.hello.StartREST;
+
 /**
  *
  * @author z003yhbx
@@ -24,6 +26,7 @@ public class Start {
         TSHandler.writeJSONFile(path, "timeseriesFormatted.json");
         TSHandler.printData();
         
+        StartREST.start();
         /*try {
             StartServer.start();
         } catch (IOException ex) {
