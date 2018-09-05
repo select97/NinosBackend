@@ -1,5 +1,4 @@
 com\evosoft\mybackend\RESTApi\RESTController.class
 com\evosoft\mybackend\TimeSeriesHandler.class
 com\evosoft\mybackend\RESTApi\StartREST.class
-com\evosoft\mybackend\RESTApi\Greeting.class
 com\evosoft\mybackend\Start.class

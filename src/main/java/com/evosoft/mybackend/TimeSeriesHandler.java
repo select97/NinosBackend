@@ -71,7 +71,7 @@ public class TimeSeriesHandler {
     
 
     public void printData() {
-        //DateTimeFormatter parser1 = DateTimeFormat.mediumDateTime();
+        
         for(int i = 0; i<data.size(); i++){
             Logger.getLogger(Logger.GLOBAL_LOGGER_NAME).log(Level.INFO, timestamp.get(i) + " " + data.get(i) + "\n");
             //System.out.print(timestamp.get(i) + " " + data.get(i) + "\n");
