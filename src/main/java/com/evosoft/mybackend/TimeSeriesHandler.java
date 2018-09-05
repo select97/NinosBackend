@@ -68,6 +68,7 @@ public class TimeSeriesHandler {
         
         return 0;
     }
+    
 
     public void printData() {
         //DateTimeFormatter parser1 = DateTimeFormat.mediumDateTime();

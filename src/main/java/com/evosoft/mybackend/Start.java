@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import com.evosoft.mybackend.hello.StartREST;
+import com.evosoft.mybackend.RESTApi.StartREST;
 
 /**
  *
@@ -21,17 +21,15 @@ public class Start {
         String path = "src"+ File.separator + "main" + File.separator + "java" 
                 + File.separator + "com" + File.separator + "evosoft"+ File.separator + "mybackend"
                 + File.separator;
+        
+        
         TimeSeriesHandler TSHandler= new TimeSeriesHandler();
         TSHandler.readJSONFile(path, "timeseriesTemp.json");
         TSHandler.writeJSONFile(path, "timeseriesFormatted.json");
         TSHandler.printData();
         
         StartREST.start();
-        /*try {
-            StartServer.start();
-        } catch (IOException ex) {
-            Logger.getLogger(Logger.GLOBAL_LOGGER_NAME).log(Level.SEVERE, null, ex);
-        }*/
+        
     }
 
 }
