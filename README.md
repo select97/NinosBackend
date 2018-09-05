@@ -3,8 +3,8 @@ build with:
 mvn package
 
 run with:
-target\MyBackend-1.0-SNAPSHOT.jar
+java -jar target\MyBackend-1.0-SNAPSHOT.jar
 
 open browser:
-http://localhost:8080/greeting
+http://localhost:8080/json
 
