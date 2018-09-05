@@ -1,0 +1,4637 @@
+[
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:00:02.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:00:33.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:01:04.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:01:35.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:02:06.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:02:37.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:03:08Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:03:38.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:04:09.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:04:40.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:05:11.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:05:42.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:06:13.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:06:44.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:07:15.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:07:46.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:08:17.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:08:48.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:09:19.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:09:50.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:10:21.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:10:52.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:11:23.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:11:54.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:12:25.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:12:56.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:13:27.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:13:58Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:14:28.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:14:59.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:15:30.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:16:01.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:16:32.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:17:03.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:17:34.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:18:05.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:18:36.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:19:07.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:19:38.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:20:09.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:20:40.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:21:11.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:21:42.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:22:13.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:22:44.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:23:15.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:23:46Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:24:16.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:24:47.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:25:18.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:25:49.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:26:20.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:26:51.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:27:22.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:27:53.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:28:24.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:28:55.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:29:26.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:29:57.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:30:28.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:30:59.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:31:30.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:32:01.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:32:32.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:33:03.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:33:34.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:34:05.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:34:36.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:35:07.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:35:38Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:36:08.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:36:39.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:37:10.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:37:41.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:38:12.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:38:43.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:39:14.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:39:45.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:40:16.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:40:47.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:41:18.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:41:49.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:42:20.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:42:51.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:43:22.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:43:53.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:44:24.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:44:55.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:45:26Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:45:56.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:46:27.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:46:58.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:47:29.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:48:00.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:48:31.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:49:02.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:49:33.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:50:04.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:50:35.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:51:06.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:51:37.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:52:08.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:52:39.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:53:10.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:53:41.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:54:12.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:54:43.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:55:14.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:55:45.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:56:16Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:56:46.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:57:17.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:57:48.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:58:19.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:58:50.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:59:21.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T06:59:52.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:00:23.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:00:54.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:01:25.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:01:56.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:02:27.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:02:58.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:03:29.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:04:00.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:04:31.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:05:02.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:05:33.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:06:04.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:06:35.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:07:06Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:07:36.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:08:07.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:08:38.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:09:09.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:09:40.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:10:11.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:10:42.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:11:13.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:11:44.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:12:15.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:12:46.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:13:17.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:13:48.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:14:19.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:14:50.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:15:21.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:15:52.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:16:23.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:16:54.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:17:25.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:17:56Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:18:26.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:18:57.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:19:28.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:19:59.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:20:30.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:21:01.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:21:32.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:22:03.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:22:34.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:23:05.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:23:36.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:24:07.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:24:38.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T07:25:09.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:25:40.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:26:11.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:26:42.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:27:13.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:27:44.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:28:15.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:28:46.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:29:17.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:29:48.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:30:19.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:30:50Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:31:20.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:31:51.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:32:22.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:32:53.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:33:24.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:33:55.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:34:26.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:34:57.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:35:28.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:35:59.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:36:30.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:37:01.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:37:32.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:38:03.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:38:34.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:39:05.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:39:36.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:40:07.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:40:38.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:41:09.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:41:40.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:42:11.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:42:42.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:43:13.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:43:44Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T07:44:14.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:44:45.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:45:16.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:45:47.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:46:18.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:46:49.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:47:20.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:47:51.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:48:22.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:48:53.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:49:24.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:49:55.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:50:26.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:50:57.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:51:28.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:51:59.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:52:30.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:53:01.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:53:32.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:54:03.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:54:34.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:55:05.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:55:35.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:56:06.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:56:37.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:57:08.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:57:39.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:58:10.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:58:41.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:59:12.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T07:59:43.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:00:14.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:00:45.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:01:16.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:01:47.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:02:18.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:02:49.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:03:20.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:03:51.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:04:22.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:04:53.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:05:24.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:05:55.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:06:26Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:06:56.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:07:27.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:07:58.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:08:29.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:09:00.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:09:31.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:10:02.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:10:33.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:11:04.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:11:35.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:12:06.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:12:37.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:13:08.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:13:39.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:14:10.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:14:41.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:15:12.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:15:43.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:16:14.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:16:45.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:17:16.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:17:47.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:18:18.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:18:49.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:19:20Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:19:50.970Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:20:21.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:20:52.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:21:23.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:21:54.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:22:25.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:22:56.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:23:27.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:23:58.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:24:29.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:25:00.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:25:31.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:26:02.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:26:33.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:27:04.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:27:35.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:28:06.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:28:37.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:29:08.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:29:39.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:30:10Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:30:40.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:31:11.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:31:42.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:32:13.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:32:44.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:33:15.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T08:33:46.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T08:34:17.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T08:34:48.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T08:35:19.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T08:35:50.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T08:36:21.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.187,
+        "_time": "2018-08-29T08:36:52.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.125,
+        "_time": "2018-08-29T08:37:23.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T08:37:54.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T08:38:25.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T08:38:56.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T08:39:27.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T08:39:58.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T08:40:29.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T08:41:00.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T08:41:31.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T08:42:02.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T08:42:33.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:43:04Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:43:34.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:44:05.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:44:36.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:45:07.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:45:38.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:46:09.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:46:40.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:47:11.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:47:42.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:48:13.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:48:44.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:49:15.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T08:49:46.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:50:17.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:50:48.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:51:19.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:51:50.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:52:21.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:52:52.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:53:23.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:53:54.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:54:25.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:54:56Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:55:26.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:55:57.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:56:28.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T08:56:59.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:57:30.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:58:01.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:58:32.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T08:59:03.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T08:59:34.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:00:05.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:00:36.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:01:07.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:01:38.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:02:09.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:02:40.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:03:11.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:03:42.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:04:13.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:04:44.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:05:15.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:05:46Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:06:16.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:06:47.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:07:18.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:07:49.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:08:20.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:08:51.680Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:09:22.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:09:53.640Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:10:24.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:10:55.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:11:26.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:11:57.440Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:12:28.400Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:12:59.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:13:30.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:14:01.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:14:32.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:15:03.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:15:34.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:16:05.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:16:36Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:17:06.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:17:37.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:18:08.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:18:39.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.5,
+        "_time": "2018-08-29T09:19:10.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.375,
+        "_time": "2018-08-29T09:19:41.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.375,
+        "_time": "2018-08-29T09:20:12.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.437,
+        "_time": "2018-08-29T09:20:43.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.375,
+        "_time": "2018-08-29T09:21:14.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.375,
+        "_time": "2018-08-29T09:21:45.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.25,
+        "_time": "2018-08-29T09:22:16.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.187,
+        "_time": "2018-08-29T09:22:47.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.125,
+        "_time": "2018-08-29T09:23:18.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.187,
+        "_time": "2018-08-29T09:23:49.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.187,
+        "_time": "2018-08-29T09:24:20.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.25,
+        "_time": "2018-08-29T09:24:51.200Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.312,
+        "_time": "2018-08-29T09:25:22.160Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.375,
+        "_time": "2018-08-29T09:25:53.120Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.437,
+        "_time": "2018-08-29T09:26:24.080Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.437,
+        "_time": "2018-08-29T09:26:55.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.437,
+        "_time": "2018-08-29T09:27:26Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.5,
+        "_time": "2018-08-29T09:27:56.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:28:27.920Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:28:58.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:29:29.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:30:00.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:30:31.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:31:02.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:31:33.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:32:04.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:32:35.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:33:06.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:33:37.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:34:08.320Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:34:39.280Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:35:10.240Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:37:45.040Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:38:16Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:38:46.960Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:39:17.919Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:39:48.880Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:40:19.840Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:40:50.800Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:41:21.760Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:41:52.720Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:42:23.600Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:42:54.560Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:43:25.520Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:43:56.480Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:44:27.360Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:44:57.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:45:28.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:45:59.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:46:30.337Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:47:01.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.562,
+        "_time": "2018-08-29T09:47:32.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.625,
+        "_time": "2018-08-29T09:48:03.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:48:34.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:49:05.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:49:36.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:50:07.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:50:38.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:51:08.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:51:39.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:52:10.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.687,
+        "_time": "2018-08-29T09:52:41.857Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:53:12.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:53:43.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.75,
+        "_time": "2018-08-29T09:54:14.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:54:45.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.812,
+        "_time": "2018-08-29T09:55:16.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.875,
+        "_time": "2018-08-29T09:55:47.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:56:18.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:56:49.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:57:20.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:57:51.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:58:22.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:58:53.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:59:24.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T09:59:55.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:00:26.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:00:57.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:01:28.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:01:59.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:02:30.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:03:01.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T10:03:31.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T10:04:02.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T10:04:33.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:05:04.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:05:35.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:06:06.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:06:37.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:07:08.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:07:39.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:08:10.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:08:41.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:09:12.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T10:09:43.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 24.937,
+        "_time": "2018-08-29T10:10:14.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25,
+        "_time": "2018-08-29T10:10:45.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:11:16.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.062,
+        "_time": "2018-08-29T10:11:47.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.125,
+        "_time": "2018-08-29T10:12:18.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.125,
+        "_time": "2018-08-29T10:12:49.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.187,
+        "_time": "2018-08-29T10:13:20.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.187,
+        "_time": "2018-08-29T10:13:51.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.187,
+        "_time": "2018-08-29T10:14:22.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:14:52.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:15:23.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:15:54.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:16:25.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:16:56.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:17:27.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:17:58.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:18:29.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:19:00.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:19:31.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.25,
+        "_time": "2018-08-29T10:20:02.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T10:20:33.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T10:21:04.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T10:21:35.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.312,
+        "_time": "2018-08-29T10:22:06.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:22:37.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:23:08.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:23:39.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:24:10.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:24:41.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:25:12.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:25:42.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:26:13.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:26:44.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.375,
+        "_time": "2018-08-29T10:27:15.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:27:46.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:28:17.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:28:48.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:29:19.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:29:50.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:30:21.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:30:52.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:31:23.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:31:54.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:32:25.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:32:56.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:33:27.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:33:58.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:34:29.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:35:00.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:35:30.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:36:01.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:36:32.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:37:03.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:37:34.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:38:05.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:38:36.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:39:07.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:39:38.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:40:09.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:40:40.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:41:11.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:41:42.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:42:13.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:42:44.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:43:15.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:43:46.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:44:17.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:44:48.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:45:18.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.437,
+        "_time": "2018-08-29T10:45:49.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:46:20.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:46:51.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:47:22.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.5,
+        "_time": "2018-08-29T10:47:53.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:48:24.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:48:55.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:49:26.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:49:57.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.562,
+        "_time": "2018-08-29T10:50:28.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:50:59.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:51:30.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:52:01.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.625,
+        "_time": "2018-08-29T10:52:32.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:53:03.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:53:34.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:54:05.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:54:36.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:55:07.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T10:55:38.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T10:56:09.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T10:56:40.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T10:57:11.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:57:42.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:58:12.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:58:43.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.687,
+        "_time": "2018-08-29T10:59:14.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T10:59:45.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T11:00:16.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T11:00:47.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T11:01:18.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.75,
+        "_time": "2018-08-29T11:01:49.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:02:20.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:02:51.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:03:22.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:03:53.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:04:24.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:04:55.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.812,
+        "_time": "2018-08-29T11:05:26.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.875,
+        "_time": "2018-08-29T11:05:57.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.875,
+        "_time": "2018-08-29T11:06:28.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.937,
+        "_time": "2018-08-29T11:06:59.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.875,
+        "_time": "2018-08-29T11:07:30.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.875,
+        "_time": "2018-08-29T11:08:01.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.937,
+        "_time": "2018-08-29T11:08:32.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.937,
+        "_time": "2018-08-29T11:09:03.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 25.937,
+        "_time": "2018-08-29T11:09:34.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26,
+        "_time": "2018-08-29T11:10:05.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26,
+        "_time": "2018-08-29T11:10:36.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26,
+        "_time": "2018-08-29T11:11:06.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.062,
+        "_time": "2018-08-29T11:11:37.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.062,
+        "_time": "2018-08-29T11:12:08.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.062,
+        "_time": "2018-08-29T11:12:39.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.062,
+        "_time": "2018-08-29T11:13:10.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.125,
+        "_time": "2018-08-29T11:13:41.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.125,
+        "_time": "2018-08-29T11:14:12.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.187,
+        "_time": "2018-08-29T11:14:43.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.187,
+        "_time": "2018-08-29T11:15:14.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.187,
+        "_time": "2018-08-29T11:15:45.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.187,
+        "_time": "2018-08-29T11:16:16.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.25,
+        "_time": "2018-08-29T11:16:47.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.25,
+        "_time": "2018-08-29T11:17:18.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.25,
+        "_time": "2018-08-29T11:17:49.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.25,
+        "_time": "2018-08-29T11:18:20.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.25,
+        "_time": "2018-08-29T11:18:51.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:19:22.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:19:53.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.25,
+        "_time": "2018-08-29T11:20:24.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:20:55.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:21:26.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:21:56.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:22:27.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:22:58.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.312,
+        "_time": "2018-08-29T11:23:29.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.375,
+        "_time": "2018-08-29T11:24:00.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.375,
+        "_time": "2018-08-29T11:24:31.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.437,
+        "_time": "2018-08-29T11:25:02.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.437,
+        "_time": "2018-08-29T11:25:33.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.437,
+        "_time": "2018-08-29T11:26:04.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:26:35.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:27:06.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:27:37.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:28:08.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:28:39.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:29:10.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:29:41.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:30:12.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:30:43.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:31:14.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:31:45.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:32:16.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:32:46.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:33:17.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:33:48.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:34:19.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T11:34:50.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T11:35:21.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:35:52.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:36:23.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:36:54.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:37:25.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:37:56.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:38:27.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:38:58.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:39:29.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:40:00.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:40:31.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:41:02.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T11:41:33.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:42:04.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:42:35.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:43:06.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:43:37.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:44:08.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:44:39.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:45:10.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:45:40.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:46:11.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:46:42.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:47:13.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:47:44.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:48:15.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:48:46.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:49:17.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:49:48.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:50:19.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:50:50.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:51:21.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:51:52.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:52:23.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:52:54.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.5,
+        "_time": "2018-08-29T11:53:25.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:53:56.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:54:27.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:54:58.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:55:29.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:56:00.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:56:31.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:57:02.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:57:33.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:58:04.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:58:34.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:59:05.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T11:59:36.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T12:00:07.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T12:00:38.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T12:01:09.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.562,
+        "_time": "2018-08-29T12:01:40.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:02:11.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:02:42.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:03:13.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:03:44.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:04:15.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:04:46.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:05:17.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:05:48.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:06:19.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:06:50.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:07:21.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:07:52.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:08:23.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.625,
+        "_time": "2018-08-29T12:08:54.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:09:25.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:09:56.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:10:27.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:10:58.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:11:28.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:11:59.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:12:30.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:13:01.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:13:32.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:14:03.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:14:34.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:15:05.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:15:36.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.812,
+        "_time": "2018-08-29T12:16:07.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.812,
+        "_time": "2018-08-29T12:16:38.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.812,
+        "_time": "2018-08-29T12:17:09.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:17:40.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:18:11.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:18:42.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:19:13.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:19:44.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.687,
+        "_time": "2018-08-29T12:20:15.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.75,
+        "_time": "2018-08-29T12:20:46.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.812,
+        "_time": "2018-08-29T12:21:17.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.937,
+        "_time": "2018-08-29T12:21:48.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27,
+        "_time": "2018-08-29T12:22:19.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27,
+        "_time": "2018-08-29T12:22:50.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.937,
+        "_time": "2018-08-29T12:23:21.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.937,
+        "_time": "2018-08-29T12:23:52.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.937,
+        "_time": "2018-08-29T12:24:22.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.937,
+        "_time": "2018-08-29T12:24:53.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 26.937,
+        "_time": "2018-08-29T12:25:24.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27,
+        "_time": "2018-08-29T12:25:55.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:26:26.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:26:57.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:27:28.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:27:59.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:28:30.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:29:01.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:29:32.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:30:03.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:30:34.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:31:05.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:31:36.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:32:07.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:32:38.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:33:09.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:33:40.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.062,
+        "_time": "2018-08-29T12:34:11.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:34:42.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:35:13.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:35:44.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:36:15.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:36:46.017Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:37:16.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:37:47.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:38:18.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:38:49.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:39:20.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.125,
+        "_time": "2018-08-29T12:39:51.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.187,
+        "_time": "2018-08-29T12:40:22.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.187,
+        "_time": "2018-08-29T12:40:53.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.187,
+        "_time": "2018-08-29T12:41:24.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.187,
+        "_time": "2018-08-29T12:41:55.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.25,
+        "_time": "2018-08-29T12:42:26.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.312,
+        "_time": "2018-08-29T12:42:57.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:43:28.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:43:59.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:44:30.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:45:01.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:45:32.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:46:03.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:46:34.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:47:05.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:47:36.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:48:07.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:48:38.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:49:09.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:49:40.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:50:10.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:50:41.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:51:12.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.375,
+        "_time": "2018-08-29T12:51:43.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.437,
+        "_time": "2018-08-29T12:52:14.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.437,
+        "_time": "2018-08-29T12:52:45.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.437,
+        "_time": "2018-08-29T12:53:16.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.437,
+        "_time": "2018-08-29T12:53:47.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.5,
+        "_time": "2018-08-29T12:54:18.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:54:49.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:55:20.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:55:51.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.625,
+        "_time": "2018-08-29T12:56:22.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:56:53.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.625,
+        "_time": "2018-08-29T12:57:24.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:57:55.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:58:26.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.562,
+        "_time": "2018-08-29T12:58:57.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.625,
+        "_time": "2018-08-29T12:59:28.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T12:59:59.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:00:30.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:01:01.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:01:32.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:02:02.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:02:33.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:03:04.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:03:35.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:04:06.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:04:37.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:05:08.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:05:39.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:06:10.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:06:41.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:07:12.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:07:43.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:08:14.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:08:45.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:09:16.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:09:47.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:10:18.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:10:49.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:11:20.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.687,
+        "_time": "2018-08-29T13:11:51.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:12:22.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:12:53.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:13:24.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:13:54.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:14:25.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:14:56.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:15:27.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:15:58.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:16:29.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:17:00.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:17:31.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.75,
+        "_time": "2018-08-29T13:18:02.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:18:33.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:19:04.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:19:35.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:20:06.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:20:37.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:21:08.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:21:39.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:22:10.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:22:41.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:23:12.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:23:43.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:24:14.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:24:45.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:25:16.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.812,
+        "_time": "2018-08-29T13:25:47.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:26:18.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:26:48.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:27:19.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:27:50.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:28:21.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:28:52.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:29:23.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:29:54.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:30:25.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:30:56.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:31:27.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:31:58.567Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:32:29.527Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:33:00.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:33:31.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:34:02.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.875,
+        "_time": "2018-08-29T13:34:33.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:35:04.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:35:35.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:36:06.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:36:37.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:37:08.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:37:39.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:38:10.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:38:41.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:39:12.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:39:42.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28,
+        "_time": "2018-08-29T13:40:13.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:40:44.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:41:15.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:41:46.807Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:42:17.767Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:42:48.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:43:19.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:43:50.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:44:21.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:44:52.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:45:23.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:45:54.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:46:25.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:46:56.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:47:27.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:47:58.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:48:29.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:49:00.167Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:49:31.127Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:50:02.087Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:50:33.047Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:51:04.007Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 27.937,
+        "_time": "2018-08-29T13:51:34.967Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28,
+        "_time": "2018-08-29T13:52:05.927Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28,
+        "_time": "2018-08-29T13:52:36.887Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28,
+        "_time": "2018-08-29T13:53:07.847Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28,
+        "_time": "2018-08-29T13:53:38.727Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28,
+        "_time": "2018-08-29T13:54:09.687Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:54:40.647Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:55:11.607Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:55:42.487Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:56:13.447Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:56:44.407Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:57:15.367Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.062,
+        "_time": "2018-08-29T13:57:46.327Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.125,
+        "_time": "2018-08-29T13:58:17.287Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.125,
+        "_time": "2018-08-29T13:58:48.247Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.125,
+        "_time": "2018-08-29T13:59:19.207Z"
+    },
+    {
+        "Temperatur_qc": 0,
+        "Temperatur": 28.125,
+        "_time": "2018-08-29T13:59:50.167Z"
+    }
+]
